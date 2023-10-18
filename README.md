@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @debasish-bihari
+- 🌍 I'm currently in [Rourkela](https://en.wikipedia.org/wiki/Rourkela), Odisha
 - 👀 I’m interested in ... Frontend
 - 🌱 I’m currently Working at ... [Venturesathi](https://venturesathi.com)
 - 📫 To reach me -> drop me an [email](mailto:debasish.bihari@venturesathi.com) using Outlook.
